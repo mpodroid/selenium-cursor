@@ -49,4 +49,4 @@ The document.cursor object provides 3 additional handy methods to move the curso
 
     document.cursor.moveToName(name, speed = 1, offsetX = 0.5, offsetY = 0.5)
     
-    if more than one element are found with the requested name, the first one is used.
+if more than one element are found with the requested name, the first one is used.
